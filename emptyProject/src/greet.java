@@ -1,8 +1,6 @@
 public class greet {
   
-  public static void greet(){
-    System.out.println("Greetings traveler !");
-
+  public static void greet(String paramOne, String paramTwo){
+    System.out.println(paramOne + paramTwo);
   }
-
 }

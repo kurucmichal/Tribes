@@ -4,5 +4,4 @@ public class greet {
     System.out.println("Greetings from the " + parameter);
 
   }
-
 }

@@ -1,5 +1,5 @@
 public class Main {
-    public String future(){
-        return "hello there";
+    public String count(){
+        return "my age is 28";
     }
 }

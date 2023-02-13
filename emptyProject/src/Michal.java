@@ -1,6 +1,6 @@
 public class Michal {
-    public String future(){
-        return "hello there";
+    public String future(String someString){
+        return "Your future looks like " + someString;
     }
 
 }

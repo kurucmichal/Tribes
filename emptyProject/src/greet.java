@@ -1,6 +1,7 @@
 public class greet {
   
-  public static void greet(String paramOne, String paramTwo){
-    System.out.println(paramOne + paramTwo);
+  public static void greet(String parameter){
+    System.out.println("Greetings from the " + parameter);
+
   }
 }

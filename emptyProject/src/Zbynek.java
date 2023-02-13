@@ -1,5 +1,5 @@
 public class Zbynek {
-    public String count(){
-        return "my age is 28";
+    public String count(int age){
+        return "my age is " + age;
     }
 }

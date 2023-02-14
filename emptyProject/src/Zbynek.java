@@ -1,5 +1,5 @@
 public class Zbynek {
-    public String count(int age, int number){
-        return "my age is " + age + " my favourite number is " + number;
+    public String count(int age){
+        return "Counting the countless" + age;
     }
 }
